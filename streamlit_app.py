@@ -2,6 +2,6 @@ import streamlit as st
 
 st.title("_menghitung_ lingkaran] :rocket:")
 r = st.number_input("masukan jari-jari (cm):", 0)
-if St.button("hitung Lingkaran", type=primary):
+if leftt.button("hitung Lingkaran", type=primary):
 L=Math.pi*(r**2)
 st.success(f"lingkaran adalah (L:.2f)")
